@@ -1,4 +1,6 @@
 # REACT-CRA-MUI
+[![CI/CD](https://github.com/PhillipRC/react-cra-mui/workflows/Deployment/badge.svg)](https://philliprc.github.io/react-cra-mui)
+
 Create React App with MaterialUI
 
 Dependencies
@@ -6,6 +8,7 @@ Dependencies
 
 Deployment
 - https://philliprc.github.io/react-cra-mui
+
 
 ## GitHub Actions
 
