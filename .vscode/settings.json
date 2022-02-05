@@ -1,3 +1,9 @@
 {
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "yaml.schemaStore.enable": false,
+    "yaml.schemas": {
+        "http://json.schemastore.org/cloudbuild": [
+            "cloudbuild.yaml"
+        ]
+    }
 }
