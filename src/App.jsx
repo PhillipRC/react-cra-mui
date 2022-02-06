@@ -1,8 +1,21 @@
 import { ReactComponent as Logo } from './logo.svg';
 import './App.css';
+import JSConfetti from 'js-confetti'
 
 const clickHander = () => {
-  console.log('hi')
+  const jsConfetti = new JSConfetti()
+  jsConfetti.addConfetti(
+    {
+      emojis: [
+        '🌈',
+        '⚡️',
+        '💥',
+        '✨',
+        '💫',
+        '🌸',
+      ],
+    }
+  )
 }
 
 function App() {
@@ -15,9 +28,9 @@ function App() {
         <Logo className="App-logo" />
 
         <button
-          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+          className="bg-blue-200 hover:bg-white text-gray-700 font-bold py-2 px-4 rounded"
           onClick={clickHander}>
-          Confetti
+          🎉 WOOT 🎉
         </button>
 
         <a
