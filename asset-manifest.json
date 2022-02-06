@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://philliprc.github.io/react-cra-mui/static/css/main.721e6be0.css",
-    "main.js": "https://philliprc.github.io/react-cra-mui/static/js/main.27cef718.js",
+    "main.css": "https://philliprc.github.io/react-cra-mui/static/css/main.26647d4b.css",
+    "main.js": "https://philliprc.github.io/react-cra-mui/static/js/main.0bfddd3a.js",
     "static/js/787.bfd593a9.chunk.js": "https://philliprc.github.io/react-cra-mui/static/js/787.bfd593a9.chunk.js",
     "service-worker.js": "https://philliprc.github.io/react-cra-mui/service-worker.js",
     "static/media/logo.svg": "https://philliprc.github.io/react-cra-mui/static/media/logo.56457cae55749cdd9ffa0edc50e492ca.svg",
     "index.html": "https://philliprc.github.io/react-cra-mui/index.html",
-    "main.721e6be0.css.map": "https://philliprc.github.io/react-cra-mui/static/css/main.721e6be0.css.map",
-    "main.27cef718.js.map": "https://philliprc.github.io/react-cra-mui/static/js/main.27cef718.js.map",
+    "main.26647d4b.css.map": "https://philliprc.github.io/react-cra-mui/static/css/main.26647d4b.css.map",
+    "main.0bfddd3a.js.map": "https://philliprc.github.io/react-cra-mui/static/js/main.0bfddd3a.js.map",
     "787.bfd593a9.chunk.js.map": "https://philliprc.github.io/react-cra-mui/static/js/787.bfd593a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.721e6be0.css",
-    "static/js/main.27cef718.js"
+    "static/css/main.26647d4b.css",
+    "static/js/main.0bfddd3a.js"
   ]
 }
