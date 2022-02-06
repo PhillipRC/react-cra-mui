@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "react-cra-mui",
+  "start_url": "react-cra-mui/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
