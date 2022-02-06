@@ -40,7 +40,7 @@
     {
       "src": "logo512.png",
       "type": "image/png",
-      "purpose": "maskable",
+      "purpose": "any",
       "sizes": "512x512"
     }
   ],
