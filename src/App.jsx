@@ -34,7 +34,7 @@ function App() {
           data-testid="woot-btn"
           onClick={clickHander}>
 
-          <div class="flex space-x-4">
+          <div className="flex space-x-4">
             <div>🎉</div>
             <div>WOOT</div>
             <div>🎉</div>
