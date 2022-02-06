@@ -33,7 +33,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": ".",
+  "homepage": "https://philliprc.github.io/react-cra-mui",
   "eslintConfig": {
     "extends": [
       "react-app",
