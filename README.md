@@ -7,9 +7,10 @@ to publish a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_
 to GitHub pages.
 
 ## Design
-- [Twitter Emoji](https://github.com/twitter/twemoji)
-- [penpot](https://penpot.app/) - Resize, Shadow
-- [Maskable](https://maskable.app/editor) - Generate icons 
+- [Twitter Emoji](https://github.com/twitter/twemoji) - Open source design emojis
+- [penpot](https://penpot.app/) - Create design
+- [Maskable](https://maskable.app) - Generate icon sizes
+- [favicon.io](https://favicon.io/) - Generate favicon.ico
 
 ## Development
 
