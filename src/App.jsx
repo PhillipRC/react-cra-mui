@@ -30,7 +30,7 @@ function App() {
         <Logo className="App-logo animate-bounce fill-brand-primary" />
 
         <button
-          className="bg-brand-primary hover:bg-white text-gray-700 font-bold py-2 px-4 rounded"
+          className="bg-brand-primary hover:bg-white text-brand-bg font-bold py-2 px-4 rounded"
           data-testid="woot-btn"
           onClick={clickHander}>
 
