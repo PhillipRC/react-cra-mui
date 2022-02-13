@@ -52,6 +52,6 @@
   ],
   "start_url": "https://philliprc.github.io/react-cra-mui/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#333333"
+  "theme_color": "#282c34",
+  "background_color": "#282c34"
 }
