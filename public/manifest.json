@@ -3,9 +3,10 @@
   "name": "WOOT",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "favicon.svg",
+      "sizes": "16x16 24x24 32x32 64x64 48x48 72x72 96x96 128x128 256x256 512x512 1024x1024",
+      "type": "image/svg+xml",
+      "purpose": "any"
     },
     {
       "src": "icon48.png",
@@ -38,6 +39,12 @@
       "sizes": "192x192"
     },
     {
+      "src": "icon256.png",
+      "type": "image/png",
+      "purpose": "maskable",
+      "sizes": "256x256"
+    },
+    {
       "src": "icon384.png",
       "type": "image/png",
       "purpose": "maskable",
@@ -48,9 +55,15 @@
       "type": "image/png",
       "purpose": "any",
       "sizes": "512x512"
+    },
+    {
+      "src": "icon1024.png",
+      "type": "image/png",
+      "purpose": "any",
+      "sizes": "1024x1024"
     }
   ],
-  "start_url": "https://philliprc.github.io/react-cra-mui/",
+  "start_url": "http://localhost:3000/",
   "display": "standalone",
   "theme_color": "#282c34",
   "background_color": "#282c34"

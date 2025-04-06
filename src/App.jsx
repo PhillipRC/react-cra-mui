@@ -35,9 +35,9 @@ function App() {
           onClick={clickHander}>
 
           <div className="flex space-x-4">
-            <div>🎉</div>
+            <div class="button-icon">🎉</div>
             <div>WOOT</div>
-            <div>🎉</div>
+            <div class="button-icon">🎉</div>
           </div>
 
         </button>
