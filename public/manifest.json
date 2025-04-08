@@ -3,12 +3,6 @@
   "name": "WOOT",
   "icons": [
     {
-      "src": "favicon.svg",
-      "sizes": "16x16 24x24 32x32 64x64 48x48 72x72 96x96 128x128 256x256 512x512 1024x1024",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    },
-    {
       "src": "icon48.png",
       "type": "image/png",
       "purpose": "maskable",
