@@ -32,12 +32,12 @@ function App() {
         <button
           className="bg-brand-primary hover:bg-white text-brand-bg font-bold py-2 px-4 rounded"
           data-testid="woot-btn"
-          onClick={clickHander}>
+          onMouseDown={clickHander}>
 
           <div className="flex space-x-4">
-            <div class="button-icon">🎉</div>
+            <div className="button-icon">🎉</div>
             <div>WOOT</div>
-            <div class="button-icon">🎉</div>
+            <div className="button-icon">🎉</div>
           </div>
 
         </button>
