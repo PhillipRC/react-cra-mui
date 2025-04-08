@@ -63,7 +63,7 @@
       "sizes": "1024x1024"
     }
   ],
-  "start_url": "http://localhost:3000/",
+  "start_url": "https://philliprc.github.io/react-cra-mui/",
   "display": "standalone",
   "theme_color": "#282c34",
   "background_color": "#282c34"
